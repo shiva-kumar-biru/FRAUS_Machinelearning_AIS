@@ -70,12 +70,21 @@ The confusion matrix is utilized to evaluate the performance of the classificati
 
 ### Data Collection
 Data was collected under various scenarios, including empty seats and seats occupied by individuals wearing winter clothing, at distances of 100 cm and 110 cm from the sensor.
+
 [Data_files](https://github.com/shiva-kumar-biru/FRAUS_Machinelearning_AIS/tree/main/AIS_ML_Project_PersonDetection_FaizMohammedKhan_ShivaKumarBiru)
 
+### Code
 
+RFC_Code(https://github.com/shiva-kumar-biru/FRAUS_Machinelearning_AIS/tree/main/AIS_ML_Project_PersonDetection_FaizMohammedKhan_ShivaKumarBiru/RandomForest)
+
+SVM_Code(https://github.com/shiva-kumar-biru/FRAUS_Machinelearning_AIS/tree/main/AIS_ML_Project_PersonDetection_FaizMohammedKhan_ShivaKumarBiru/SVM_Model)
 
 ## Results
 The results include detailed analyses of the sensor's performance across different scenarios, with emphasis on accuracy, reliability, and the impact of winter clothing on detection efficiency.
+
+The Below Document has the project analysis and the result
+
+[Document](https://github.com/shiva-kumar-biru/FRAUS_Machinelearning_AIS/blob/main/AIS_ML_Project_Report_FaizMohammedKhan_ShivaKumar_Biru.pdf)
 
 ## Conclusion
 The study successfully demonstrated the capability of the sensor system to detect individuals in winter clothing, with the machine learning models providing robust performance in various scenarios.
