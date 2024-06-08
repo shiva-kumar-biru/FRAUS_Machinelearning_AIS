@@ -39,6 +39,8 @@ This project investigates the accurate detection of individuals within vehicles,
     - [Analog to Digital Converter (ADC)](#analog-to-digital-converter-adc)
     - [Fast Fourier Transform (FFT)](#fast-fourier-transform-fft)
     - [Confusion Matrix](#confusion-matrix)
+    - [Supervised Learning](#supervised-learning)
+    - [Confusion Matrix](#confusion-matrix)
   - [Implementation](#implementation)
     - [Measurement Setup and Collection](#measurement-setup-and-collection)
     - [Data Collection](#data-collection)
@@ -62,6 +64,12 @@ FFT is used to transform the time-domain signal into the frequency domain, allow
 ### Confusion Matrix
 The confusion matrix is utilized to evaluate the performance of the classification models by comparing the predicted labels with the actual labels. Key metrics such as accuracy, recall, precision, and F1 score are derived from the confusion matrix.
 
+### Supervised Learning
+Supervised learning is employed to build predictive models using labeled training data. In this project, we have used the Random Forest Classifier (RFC) to analyze the sensor data and classify the presence of individuals in the car.
+
+### Random Forest Classifier (RFC)
+RFC is an ensemble learning method that constructs multiple decision trees during training and outputs the mode of the classes for classification tasks. It is particularly effective in handling overfitting and improving the accuracy of predictions.
+
 ## Implementation
 ### Measurement Setup and Collection
 - **Measurement Environment:** Measurements were conducted using a Ford Fiesta parked in the basement garage of Frankfurt University of Applied Sciences.
@@ -73,11 +81,11 @@ Data was collected under various scenarios, including empty seats and seats occu
 
 [Data_files](https://github.com/shiva-kumar-biru/FRAUS_Machinelearning_AIS/tree/main/AIS_ML_Project_PersonDetection_FaizMohammedKhan_ShivaKumarBiru)
 
-### Code
+### File Paths and Descriptions
 
-[RFC_Code](https://github.com/shiva-kumar-biru/FRAUS_Machinelearning_AIS/tree/main/AIS_ML_Project_PersonDetection_FaizMohammedKhan_ShivaKumarBiru/RandomForest)
+[RFC_Code](https://github.com/shiva-kumar-biru/FRAUS_Machinelearning_AIS/tree/main/AIS_ML_Project_PersonDetection_FaizMohammedKhan_ShivaKumarBiru/RandomForest): Script used to train the Random Forest Classifier.
 
-[SVM_Code](https://github.com/shiva-kumar-biru/FRAUS_Machinelearning_AIS/tree/main/AIS_ML_Project_PersonDetection_FaizMohammedKhan_ShivaKumarBiru/SVM_Model)
+[SVM_Code](https://github.com/shiva-kumar-biru/FRAUS_Machinelearning_AIS/tree/main/AIS_ML_Project_PersonDetection_FaizMohammedKhan_ShivaKumarBiru/SVM_Model):Script used to train the SVM.
 
 ## Results
 The results include detailed analyses of the sensor's performance across different scenarios, with emphasis on accuracy, reliability, and the impact of winter clothing on detection efficiency.
