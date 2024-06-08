@@ -75,9 +75,9 @@ Data was collected under various scenarios, including empty seats and seats occu
 
 ### Code
 
-RFC_Code(https://github.com/shiva-kumar-biru/FRAUS_Machinelearning_AIS/tree/main/AIS_ML_Project_PersonDetection_FaizMohammedKhan_ShivaKumarBiru/RandomForest)
+[RFC_Code](https://github.com/shiva-kumar-biru/FRAUS_Machinelearning_AIS/tree/main/AIS_ML_Project_PersonDetection_FaizMohammedKhan_ShivaKumarBiru/RandomForest)
 
-SVM_Code(https://github.com/shiva-kumar-biru/FRAUS_Machinelearning_AIS/tree/main/AIS_ML_Project_PersonDetection_FaizMohammedKhan_ShivaKumarBiru/SVM_Model)
+[SVM_Code](https://github.com/shiva-kumar-biru/FRAUS_Machinelearning_AIS/tree/main/AIS_ML_Project_PersonDetection_FaizMohammedKhan_ShivaKumarBiru/SVM_Model)
 
 ## Results
 The results include detailed analyses of the sensor's performance across different scenarios, with emphasis on accuracy, reliability, and the impact of winter clothing on detection efficiency.
