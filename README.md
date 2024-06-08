@@ -70,7 +70,7 @@ The confusion matrix is utilized to evaluate the performance of the classificati
 
 ### Data Collection
 Data was collected under various scenarios, including empty seats and seats occupied by individuals wearing winter clothing, at distances of 100 cm and 110 cm from the sensor.
-
+[Data_files](https://github.com/shiva-kumar-biru/FRAUS_Machinelearning_AIS/tree/main/AIS_ML_Project_PersonDetection_FaizMohammedKhan_ShivaKumarBiru)
 
 
 
