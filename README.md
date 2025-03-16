@@ -1,6 +1,30 @@
 
 # Project Title: Parameter Setting and Reliability Test of a Sensor System for Person Detection in a Car Wearing Winter Wear
 
+## Table of Contents
+- [Project Title: Parameter Setting and Reliability Test of a Sensor System for Person Detection in a Car Wearing Winter Wear](#project-title-parameter-setting-and-reliability-test-of-a-sensor-system-for-person-detection-in-a-car-wearing-winter-wear)
+    - [Authors:](#authors)
+    - [Supervisors:](#supervisors)
+    - [Institution:](#institution)
+  - [Abstract](#abstract)
+  - [Keywords](#keywords)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Methodology](#methodology)
+    - [Ultrasonic Sensor and Red Pitaya](#ultrasonic-sensor-and-red-pitaya)
+    - [Analog to Digital Converter (ADC)](#analog-to-digital-converter-adc)
+    - [Fast Fourier Transform (FFT)](#fast-fourier-transform-fft)
+    - [Confusion Matrix](#confusion-matrix)
+    - [Supervised Learning](#supervised-learning)
+    - [Confusion Matrix](#confusion-matrix)
+  - [Implementation](#implementation)
+    - [Measurement Setup and Collection](#measurement-setup-and-collection)
+    - [Data Collection](#data-collection)
+  - [Results](#results)
+  - [Conclusion](#conclusion)
+  - [Contact](#contact)
+
+
 ### Authors:
 - Shiva Kumar Biru 
 - Faiz Mohammad Khan 
@@ -24,29 +48,6 @@ This project investigates the accurate detection of individuals within vehicles,
 - Convolutional Neural Networks (CNN)
 - Random Forest Classifier (RFC)
 - Confusion Matrix
-
-## Table of Contents
-- [Project Title: Parameter Setting and Reliability Test of a Sensor System for Person Detection in a Car Wearing Winter Wear](#project-title-parameter-setting-and-reliability-test-of-a-sensor-system-for-person-detection-in-a-car-wearing-winter-wear)
-    - [Authors:](#authors)
-    - [Supervisors:](#supervisors)
-    - [Institution:](#institution)
-  - [Abstract](#abstract)
-  - [Keywords](#keywords)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Methodology](#methodology)
-    - [Ultrasonic Sensor and Red Pitaya](#ultrasonic-sensor-and-red-pitaya)
-    - [Analog to Digital Converter (ADC)](#analog-to-digital-converter-adc)
-    - [Fast Fourier Transform (FFT)](#fast-fourier-transform-fft)
-    - [Confusion Matrix](#confusion-matrix)
-    - [Supervised Learning](#supervised-learning)
-    - [Confusion Matrix](#confusion-matrix)
-  - [Implementation](#implementation)
-    - [Measurement Setup and Collection](#measurement-setup-and-collection)
-    - [Data Collection](#data-collection)
-  - [Results](#results)
-  - [Conclusion](#conclusion)
-  - [Contact](#contact)
 
 ## Introduction
 The study aims to ensure the safety and reliability of sensor systems designed for detecting individuals in vehicles, especially during winter. It focuses on assessing the performance of the sensor system by examining how well it detects individuals wearing various types of winter clothing.
