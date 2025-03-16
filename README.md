@@ -8,7 +8,6 @@
     - [Institution:](#institution)
   - [Abstract](#abstract)
   - [Keywords](#keywords)
-  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Methodology](#methodology)
     - [Ultrasonic Sensor and Red Pitaya](#ultrasonic-sensor-and-red-pitaya)
