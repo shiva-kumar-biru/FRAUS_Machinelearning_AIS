@@ -3,9 +3,9 @@
 
 ## Table of Contents
 - [Project Title: Parameter Setting and Reliability Test of a Sensor System for Person Detection in a Car Wearing Winter Wear](#project-title-parameter-setting-and-reliability-test-of-a-sensor-system-for-person-detection-in-a-car-wearing-winter-wear)
-    - [Authors:](#authors)
-    - [Supervisors:](#supervisors)
-    - [Institution:](#institution)
+    - [Authors](#authors)
+    - [Supervisors](#supervisors)
+    - [Institution](#institution)
   - [Abstract](#abstract)
   - [Keywords](#keywords)
   - [Introduction](#introduction)
